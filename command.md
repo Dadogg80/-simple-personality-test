@@ -1,8 +1,5 @@
 ## Command
 
-I want you to act as a Senior Frontend developer. I will describe a project details you will code project with this tools: Create React App, yarn, Redux Toolkit, typescript, and axios. write the folderstructure for the project before you start. Do not write explanations. My first request is to build a simple personality test application, that takes 3-5 different questions, maps them into a score and produces a personality trait of either Introvert or Extrovert.
-
-
 ```bash
 ├── public
 │   ├── index.html
